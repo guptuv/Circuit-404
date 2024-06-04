@@ -13,22 +13,22 @@ This code contains examples of scareware tactics that aim to deceive users by po
 
 ## Recommended Approach
 
-For pranks that are lighthearted and promote trust, consider:
+For jest that are lighthearted and promote trust, consider:
 
 * **Visual Effects:** Use libraries like Pygame or OpenCV to create funny animations or visual distortions on the screen.
 * **Audio Effects:** Play unexpected sounds or modify system sounds for a humorous effect.
 * **Harmless Text Messages:** Display funny or puzzling messages without resorting to scare tactics.
 
-## Positive Pranks
+## Positive jest
 
-Here are some ideas for pranks that are more lighthearted and won't cause alarm:
+Here are some ideas for jest that are more lighthearted and won't cause alarm:
 
 * Change the desktop wallpaper to a funny image.
 * Swap the mouse buttons (left and right click) temporarily.
 * Reverse the screen orientation for a brief period.
 * Play a silly sound when a specific key is pressed.
 
-**Remember:** Pranks should be fun and harmless, not cause undue stress or risk to the user's system.
+**Remember:** jest should be fun and harmless, not cause undue stress or risk to the user's system.
 
 ## Disclaimer
 
